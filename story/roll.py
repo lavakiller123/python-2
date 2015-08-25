@@ -10,5 +10,6 @@ def roll(howmany=1,sides=6):
         total += random.randint(1,sides)
     return total
 
-if __name__ == '__main__':
-roll()
+if __name__ == '__main__':    
+    number = roll()
+    print(number)
