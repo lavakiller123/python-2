@@ -1,8 +1,15 @@
 {
-  "Porygon z" : {
-    "attack":80,
-    "hp":200,
-    "speed":90
-    "level":5
-}
-
+  "abilities" :["Insomnia"],
+  "description" : "",  
+  "attack" :"150",
+  "catch_rate" :"",
+  "defence" :"70",
+  "ev-yield" :"1 special_defence",
+  "evoloutions" :"["
+    {
+    "level" :"1",
+    "method" :""
+    "to" :""
+  }
+ ]
+{
